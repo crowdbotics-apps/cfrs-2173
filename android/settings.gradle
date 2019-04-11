@@ -1,0 +1,3 @@
+rootProject.name = 'cfrs_2173'
+
+include ':app'
